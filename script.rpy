@@ -8,9 +8,11 @@ define h = Character("Husk")
 define k = Character("Kai")
 
 
-# The game starts here.
+# O jogo começa aqui.
 
 label start:
+
+    scene cenario2.jpg
 
     "Dois irmãos lutam pela liderança do clã dos lobos"
 
